@@ -1,0 +1,28 @@
+Package: com.leglessnograd.icondown
+Version: 1.1-2
+Section: Tweaks
+Maintainer: Charlie Knight
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./com.leglessnograd.icondown_1.1-2_iphoneos-arm.deb
+Size: 6162
+Installed-Size: 96
+MD5sum: ad11e1b579f2008ea73dddf613cc46cb
+Description: Squishes those icons down.
+Name: icondown
+Author: Charle Knight
+
+Package: com.leglessnograd.skipslide
+Version: 1.0-4
+Section: Tweaks
+Maintainer: Charlie Knight
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./com.leglessnograd.skipslide_1.0-4_iphoneos-arm.deb
+Size: 5826
+Installed-Size: 92
+MD5sum: 9006cf121d03c75eb1ac00f0d4366bda
+Description: Skips to the passcode screen without having to slide.
+Name: SkipSlide
+Author: Charlie Knight
+
