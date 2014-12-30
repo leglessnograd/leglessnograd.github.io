@@ -26,3 +26,17 @@ Description: Skips to the passcode screen without having to slide.
 Name: SkipSlide
 Author: Charlie Knight
 
+Package: tk.leglessnograd.unlimitab
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Charlie Knight
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./tk.leglessnograd.unlimitab_0.0.1-1_iphoneos-arm.deb
+Size: 5900
+Installed-Size: 96
+MD5sum: f74ff33674b726d478bcf0227ee71eed
+Description: An awesome MobileSubstrate tweak!
+Name: UnlimiTab
+Author: Charlie Knight
+
