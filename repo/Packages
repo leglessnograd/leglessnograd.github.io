@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Charlie Knight
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.leglessnograd.icondown_1.1-2_iphoneos-arm.deb
+Filename: ./com.leglessnograd.icondown_1.1-2_iphoneos-arm.deb
 Size: 6162
 Installed-Size: 96
 MD5sum: ad11e1b579f2008ea73dddf613cc46cb
@@ -18,7 +18,7 @@ Section: Tweaks
 Maintainer: Charlie Knight
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.leglessnograd.skipslide_1.0-4_iphoneos-arm.deb
+Filename: ./com.leglessnograd.skipslide_1.0-4_iphoneos-arm.deb
 Size: 5826
 Installed-Size: 92
 MD5sum: 9006cf121d03c75eb1ac00f0d4366bda
@@ -32,7 +32,7 @@ Section: Tweaks
 Maintainer: Charlie Knight
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/tk.leglessnograd.launchcounter_0.0.1-5_iphoneos-arm.deb
+Filename: ./tk.leglessnograd.launchcounter_0.0.1-5_iphoneos-arm.deb
 Size: 5886
 Installed-Size: 96
 MD5sum: 5dc9857cdaad7989b2ae05687e72db0d
@@ -46,7 +46,7 @@ Section: Tweaks
 Maintainer: Charlie Knight
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/tk.leglessnograd.unlimitab_0.0.1-1_iphoneos-arm.deb
+Filename: ./tk.leglessnograd.unlimitab_0.0.1-1_iphoneos-arm.deb
 Size: 5900
 Installed-Size: 96
 MD5sum: f74ff33674b726d478bcf0227ee71eed
