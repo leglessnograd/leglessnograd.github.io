@@ -27,15 +27,15 @@ Name: SkipSlide
 Author: Charlie Knight
 
 Package: tk.leglessnograd.launchcounter
-Version: 0.0.1-5
+Version: 0.0.1-6
 Section: Tweaks
 Maintainer: Charlie Knight
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./tk.leglessnograd.launchcounter_0.0.1-5_iphoneos-arm.deb
-Size: 5886
+Filename: ./tk.leglessnograd.launchcounter_0.0.1-6_iphoneos-arm.deb
+Size: 5908
 Installed-Size: 96
-MD5sum: 5dc9857cdaad7989b2ae05687e72db0d
+MD5sum: ccdb9793bc4b75e4ad6d550354e2654e
 Description: Beta of LaunchCounter! It doesn't do much right now.
 Name: LaunchCounter
 Author: Charlie Knight
