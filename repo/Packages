@@ -40,6 +40,19 @@ Description: Beta of LaunchCounter! It doesn't do much right now.
 Name: LaunchCounter
 Author: Charlie Knight
 
+Package: tk.leglessnograd.localssh
+Version: 1.0
+Section: Tweaks
+Maintainer: Charlie Knight
+Depends: openssh
+Architecture: iphoneos-arm
+Filename: ./tk.leglessnograd.localssh_1.0-1_iphoneos-arm.deb
+Size: 1796
+MD5sum: bc0bfc8cd74ead74a3d7e5e4ffc25537
+Description: Smoothly enables SSH access for AppStore apps
+Name: LocalSSH
+Author: Charlie Knight
+
 Package: tk.leglessnograd.unlimitab
 Version: 0.0.1-1
 Section: Tweaks
